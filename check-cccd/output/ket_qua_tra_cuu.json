@@ -1,0 +1,36 @@
+[
+  {
+    "cccd": "001161041024",
+    "status": "found",
+    "tax_code": "0100660112",
+    "name": "Nguyễn Thị Hồng",
+    "address": "Huyện Đông Anh, Hà Nội",
+    "business_type": "Khác",
+    "business_status": null,
+    "registration_date": null,
+    "phone": null,
+    "email": null,
+    "representative": "Nguyễn Thị Hồng",
+    "error": null,
+    "response_time": 0.3331449031829834,
+    "source": "masothue.com",
+    "additional_info": {}
+  },
+  {
+    "cccd": "037178000015",
+    "status": "found",
+    "tax_code": "5400477861",
+    "name": "CÔNG TY TNHH KMP VIỆT NAM",
+    "address": "Thôn Quán Trắng, Xã Liên Sơn, Huyện Lương Sơn, Tỉnh Hòa Bình, Việt Nam",
+    "business_type": "Công ty TNHH",
+    "business_status": null,
+    "registration_date": null,
+    "phone": null,
+    "email": null,
+    "representative": "NGUYỄN THỊ THÚY VÂN",
+    "error": null,
+    "response_time": 0.4006779193878174,
+    "source": "masothue.com",
+    "additional_info": {}
+  }
+]

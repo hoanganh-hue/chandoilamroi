@@ -1,0 +1,22 @@
+# Core Libraries
+pandas
+openpyxl
+httpx[http2]
+beautifulsoup4
+lxml
+
+# Configuration
+python-dotenv
+
+# Utilities
+tenacity
+loguru
+
+# CLI
+typer[all]
+
+# Testing
+pytest
+pytest-asyncio
+pytest-mock
+respx

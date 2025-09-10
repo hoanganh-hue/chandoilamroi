@@ -1,0 +1,258 @@
+[
+    {
+        "code": "92TTT",
+        "name": "Cần Thơ"
+    },
+    {
+        "code": "91TTT",
+        "name": "Kiên Giang"
+    },
+    {
+        "code": "75TTT",
+        "name": "Đồng Nai"
+    },
+    {
+        "code": "20TTT",
+        "name": "Lạng Sơn"
+    },
+    {
+        "code": "89TTT",
+        "name": "An Giang"
+    },
+    {
+        "code": "46TTT",
+        "name": "Huế"
+    },
+    {
+        "code": "34TTT",
+        "name": "Thái Bình"
+    },
+    {
+        "code": "62TTT",
+        "name": "Kon Tum"
+    },
+    {
+        "code": "45TTT",
+        "name": "Quảng Trị"
+    },
+    {
+        "code": "58TTT",
+        "name": "Ninh Thuận"
+    },
+    {
+        "code": "74TTT",
+        "name": "Bình Dương"
+    },
+    {
+        "code": "37TTT",
+        "name": "Ninh Bình"
+    },
+    {
+        "code": "31TTT",
+        "name": "Hải Phòng"
+    },
+    {
+        "code": "95TTT",
+        "name": "Bạc Liêu"
+    },
+    {
+        "code": "08TTT",
+        "name": "Tuyên Quang"
+    },
+    {
+        "code": "14TTT",
+        "name": "Sơn La"
+    },
+    {
+        "code": "36TTT",
+        "name": "Nam Định"
+    },
+    {
+        "code": "25TTT",
+        "name": "Phú Thọ"
+    },
+    {
+        "code": "42TTT",
+        "name": "Hà Tĩnh"
+    },
+    {
+        "code": "93TTT",
+        "name": "Hậu Giang"
+    },
+    {
+        "code": "82TTT",
+        "name": "Tiền Giang"
+    },
+    {
+        "code": "66TTT",
+        "name": "Đắk Lắk"
+    },
+    {
+        "code": "80TTT",
+        "name": "Long An"
+    },
+    {
+        "code": "17TTT",
+        "name": "Hòa Bình"
+    },
+    {
+        "code": "87TTT",
+        "name": "Đồng Tháp"
+    },
+    {
+        "code": "19TTT",
+        "name": "Thái Nguyên"
+    },
+    {
+        "code": "83TTT",
+        "name": "Bến Tre"
+    },
+    {
+        "code": "54TTT",
+        "name": "Phú Yên"
+    },
+    {
+        "code": "26TTT",
+        "name": "Vĩnh Phúc"
+    },
+    {
+        "code": "94TTT",
+        "name": "Sóc Trăng"
+    },
+    {
+        "code": "60TTT",
+        "name": "Bình Thuận"
+    },
+    {
+        "code": "51TTT",
+        "name": "Quảng Ngãi"
+    },
+    {
+        "code": "64TTT",
+        "name": "Gia Lai"
+    },
+    {
+        "code": "77TTT",
+        "name": "Bà Rịa - Vũng Tàu"
+    },
+    {
+        "code": "79TTT",
+        "name": "Hồ Chí Minh"
+    },
+    {
+        "code": "02TTT",
+        "name": "Hà Giang"
+    },
+    {
+        "code": "68TTT",
+        "name": "Lâm Đồng"
+    },
+    {
+        "code": "35TTT",
+        "name": "Hà Nam"
+    },
+    {
+        "code": "48TTT",
+        "name": "Đà Nẵng"
+    },
+    {
+        "code": "70TTT",
+        "name": "Bình Phước"
+    },
+    {
+        "code": "49TTT",
+        "name": "Quảng Nam"
+    },
+    {
+        "code": "38TTT",
+        "name": "Thanh Hóa"
+    },
+    {
+        "code": "84TTT",
+        "name": "Trà Vinh"
+    },
+    {
+        "code": "11TTT",
+        "name": "Điện Biên"
+    },
+    {
+        "code": "27TTT",
+        "name": "Bắc Ninh"
+    },
+    {
+        "code": "30TTT",
+        "name": "Hải Dương"
+    },
+    {
+        "code": "67TTT",
+        "name": "Đắk Nông"
+    },
+    {
+        "code": "44TTT",
+        "name": "Quảng Bình"
+    },
+    {
+        "code": "22TTT",
+        "name": "Quảng Ninh"
+    },
+    {
+        "code": "33TTT",
+        "name": "Hưng Yên"
+    },
+    {
+        "code": "96TTT",
+        "name": "Cà Mau"
+    },
+    {
+        "code": "10TTT",
+        "name": "Lào Cai"
+    },
+    {
+        "code": "56TTT",
+        "name": "Khánh Hòa"
+    },
+    {
+        "code": "40TTT",
+        "name": "Nghệ An"
+    },
+    {
+        "code": "12TTT",
+        "name": "Lai Châu"
+    },
+    {
+        "code": "72TTT",
+        "name": "Tây Ninh"
+    },
+    {
+        "code": "86TTT",
+        "name": "Vĩnh Long"
+    },
+    {
+        "code": "24TTT",
+        "name": "Bắc Giang"
+    },
+    {
+        "code": "04TTT",
+        "name": "Cao Bằng"
+    },
+    {
+        "code": "15TTT",
+        "name": "Yên Bái"
+    },
+    {
+        "code": "52TTT",
+        "name": "Bình Định"
+    },
+    {
+        "code": "01TTT",
+        "name": "Hà Nội"
+    },
+    {
+        "code": "06TTT",
+        "name": "Bắc Kạn"
+    },
+    {
+        "code": "97TTT",
+        "name": "Bộ quốc phòng"
+    }
+]
